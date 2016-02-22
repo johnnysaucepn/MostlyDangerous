@@ -1,0 +1,57 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Howatworks",
+    "enableMultiJS": true,
+    "longName": "Mostly Dangerous",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/elite-dangerous.png",
+                "name": "IMAGE_ELITEDANGEROUS",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/rocks.png",
+                "name": "IMAGE_ROCKS",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/SmallLogo.png",
+                "menuIcon": true,
+                "name": "IMAGE_SMALLLOGO",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/EUROCAPS.TTF",
+                "name": "FONT_EUROCAPS_24",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/EUROCAPS.TTF",
+                "name": "FONT_EUROCAPS_48",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Dangerous",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "5cf72de3-39e5-491d-bda5-1502a6cb2371",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
